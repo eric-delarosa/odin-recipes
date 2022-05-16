@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 1000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+img {
+    height: auto;
+    width: 400px;
+    padding: 100px;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+li {
+    text-align: left;
+}
+
+ol {
+    font-weight: bold;
+}
